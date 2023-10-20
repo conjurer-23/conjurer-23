@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a love for open-source software.
 
-![Amol Madnurkar Animated Introduction](https://media.giphy.com/media/3ohze0KpzkP1xjR4G0/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/l0Ex6RJzCbB6vNQSs/giphy.gif)
 
 ## About Me
 
