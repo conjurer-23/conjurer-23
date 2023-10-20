@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a love for open-source software.
 
-![GitHub Octocat Animation](https://octodex.github.com/images/privateinvestocat.jpg)
+![GitHub Octocat Animation](https://images-prod.dazeddigital.com/1050/azure/dazed-prod/1340/3/1343132.jpeg)
 
 ## About Me
 
