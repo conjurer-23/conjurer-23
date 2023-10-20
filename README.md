@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a love for open-source software.
 
-![GitHub Octocat Animation](https://octodex.github.com/images/privateinvestocat.jpg)
+![Amol Madnurkar Animated Introduction](https://media.giphy.com/media/3ohze0KpzkP1xjR4G0/giphy.gif)
 
 ## About Me
 
