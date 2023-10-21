@@ -35,9 +35,8 @@ List your programming languages, tools, and technologies that you're proficient 
 
 Include your contact information, such as email and social media profiles.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- Email: [amolmadnurkar2357@gmail.com](mailto:your.email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/amol-madnurkar-4b20041a7/](https://www.linkedin.com/in/yourname)
 
 ## Let's Connect!
 
