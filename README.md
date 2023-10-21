@@ -30,6 +30,8 @@ List your programming languages, tools, and technologies that you're proficient 
 - React
 - Git
 - Docker
+- AWS
+- Kubernetes
 
 ## Contact Me
 
