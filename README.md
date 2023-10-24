@@ -37,8 +37,8 @@ List your programming languages, tools, and technologies that you're proficient 
 
 Include your contact information, such as email and social media profiles.
 
-- Email: [amolmadnurkar2357@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/amol-madnurkar-4b20041a7/]
+- Email: ([amolmadnurkar2357@gmail.com])
+- LinkedIn: ([https://www.linkedin.com/in/amol-madnurkar-4b20041a7/])
 ## Let's Connect!
 
 Feel free to reach out if you have any questions or would like to collaborate on a project. I'm always open to new opportunities and discussions!
