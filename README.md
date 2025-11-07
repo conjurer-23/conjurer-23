@@ -1,6 +1,6 @@
 # Hello, I'm Amol Madnurkar!
 
-I'm a passionate developer with a love for open-source software.
+I'm a passionate SAP ABAP developer with a love for open-source software.
 
 ![GitHub Octocat Animation](https://images-prod.dazeddigital.com/1050/azure/dazed-prod/1340/3/1343132.jpeg)
 
@@ -24,6 +24,9 @@ List some of your notable projects, along with a brief description and links to 
 
 List your programming languages, tools, and technologies that you're proficient in.
 
+- SAP ABAP
+- SAP S/4 HANA
+- SAP BTP
 - JavaScript
 - Python
 - HTML/CSS
